@@ -5,4 +5,8 @@
             "content"
             "nav";
     }
+
+    .main-head, .side, .ad, .main-footer {
+        display: none;
+    }
 }
